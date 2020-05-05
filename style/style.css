@@ -302,7 +302,7 @@ body.hide {
 
 .services-img {
   height: 90vh;
-  background-image: url("../assets/img/aboutUs-main.jpg");
+  background-image: url("../assets/img/services-main.jpg");
   object-position: cover;
   background-repeat: no-repeat;
   background-size: cover;
