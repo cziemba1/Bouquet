@@ -246,7 +246,7 @@ body.hide {
 
 .main-img {
   height: 90vh;
-  background: url("assets/img/aboutUs-main.jpg");
+  background: url("./assets/img/aboutUs-main.jpg");
   object-position: cover;
   background-repeat: no-repeat;
   background-size: cover;

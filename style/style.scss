@@ -246,7 +246,7 @@ body.hide {
 //ABOUT PAGE
 
 .main-img {
-  @include bg-img(url("assets/img/aboutUs-main.jpg"));
+  @include bg-img(url("./assets/img/aboutUs-main.jpg"));
 }
 
 .about-info {
