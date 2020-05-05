@@ -293,7 +293,7 @@ body.hide {
 //SERVICES PAGE
 
 .services-img {
-  @include bg-img(url("/../assets/img/services-main.jpg"));
+  @include bg-img(url("../assets/img/services-main.jpg"));
 }
 
 .services {
@@ -363,7 +363,7 @@ body.hide {
   }
 }
 .potfolio-img {
-  @include bg-img(url("/../assets/img/marisa-morton-h-dR-XFJXis-unsplash.jpg"));
+  @include bg-img(url("../assets/img/marisa-morton-h-dR-XFJXis-unsplash.jpg"));
 }
 //SAMPLE BOARD PAGE
 .sample-board {
@@ -397,31 +397,31 @@ body.hide {
 
 .sample-1-img {
   @include bg-img(
-    url("/../assets/img/portfolio/sample-1/jeremy-wong-weddings-464ps_nOflw-unsplash.jpg")
+    url("../assets/img/portfolio/sample-1/jeremy-wong-weddings-464ps_nOflw-unsplash.jpg")
   );
 }
 
 .sample-2-img {
   @include bg-img(
-    url("/../assets/img/portfolio/sample-2/jeremy-wong-weddings-3kjxOxW1Q-4-unsplash.jpg")
+    url("../assets/img/portfolio/sample-2/jeremy-wong-weddings-3kjxOxW1Q-4-unsplash.jpg")
   );
 }
 
 .sample-3-img {
   @include bg-img(
-    url("/../assets/img/portfolio/sample-3/photos-by-lanty--pcFcc64vGE-unsplash.jpg")
+    url("../assets/img/portfolio/sample-3/photos-by-lanty--pcFcc64vGE-unsplash.jpg")
   );
 }
 
 .sample-4-img {
   @include bg-img(
-    url("/../assets/img/portfolio/sample-4/jeremy-wong-weddings-AlF80wr34Cw-unsplash.jpg")
+    url("../assets/img/portfolio/sample-4/jeremy-wong-weddings-AlF80wr34Cw-unsplash.jpg")
   );
 }
 
 .sample-5-img {
   @include bg-img(
-    url("/../assets/img/portfolio/sample-5/thomas-william-6Sls-TB27kM-unsplash.jpg")
+    url("../assets/img/portfolio/sample-5/thomas-william-6Sls-TB27kM-unsplash.jpg")
   );
 }
 
