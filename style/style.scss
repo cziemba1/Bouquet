@@ -4,7 +4,7 @@ $secondary-text-color: #999790;
 
 @mixin bg-img($imgUrl) {
   height: 90vh;
-  background: $imgUrl;
+  background-image: $imgUrl;
   object-position: cover;
   background-repeat: no-repeat;
   background-size: cover;
@@ -293,7 +293,7 @@ body.hide {
 //SERVICES PAGE
 
 .services-img {
-  @include bg-img(url("assets/img/services-main.jpg"));
+  @include bg-img(url("/assets/img/services-main.jpg"));
 }
 
 .services {
