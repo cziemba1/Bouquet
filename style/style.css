@@ -246,7 +246,7 @@ body.hide {
 
 .main-img {
   height: 90vh;
-  background-image: url("./assets/img/aboutUs-main.jpg");
+  background-image: url("../assets/img/aboutUs-main.jpg");
   object-position: cover;
   background-repeat: no-repeat;
   background-size: cover;
@@ -302,7 +302,7 @@ body.hide {
 
 .services-img {
   height: 90vh;
-  background-image: url("/assets/img/services-main.jpg");
+  background-image: url("/../assets/img/services-main.jpg");
   object-position: cover;
   background-repeat: no-repeat;
   background-size: cover;
@@ -385,7 +385,7 @@ body.hide {
 
 .potfolio-img {
   height: 90vh;
-  background-image: url("assets/img/marisa-morton-h-dR-XFJXis-unsplash.jpg");
+  background-image: url("/../assets/img/marisa-morton-h-dR-XFJXis-unsplash.jpg");
   object-position: cover;
   background-repeat: no-repeat;
   background-size: cover;
@@ -430,7 +430,7 @@ body.hide {
 
 .sample-1-img {
   height: 90vh;
-  background-image: url("assets/img/portfolio/sample-1/jeremy-wong-weddings-464ps_nOflw-unsplash.jpg");
+  background-image: url("/../assets/img/portfolio/sample-1/jeremy-wong-weddings-464ps_nOflw-unsplash.jpg");
   object-position: cover;
   background-repeat: no-repeat;
   background-size: cover;
@@ -439,7 +439,7 @@ body.hide {
 
 .sample-2-img {
   height: 90vh;
-  background-image: url("assets/img/portfolio/sample-2/jeremy-wong-weddings-3kjxOxW1Q-4-unsplash.jpg");
+  background-image: url("/../assets/img/portfolio/sample-2/jeremy-wong-weddings-3kjxOxW1Q-4-unsplash.jpg");
   object-position: cover;
   background-repeat: no-repeat;
   background-size: cover;
@@ -448,7 +448,7 @@ body.hide {
 
 .sample-3-img {
   height: 90vh;
-  background-image: url("assets/img/portfolio/sample-3/photos-by-lanty--pcFcc64vGE-unsplash.jpg");
+  background-image: url("/../assets/img/portfolio/sample-3/photos-by-lanty--pcFcc64vGE-unsplash.jpg");
   object-position: cover;
   background-repeat: no-repeat;
   background-size: cover;
@@ -457,7 +457,7 @@ body.hide {
 
 .sample-4-img {
   height: 90vh;
-  background-image: url("assets/img/portfolio/sample-4/jeremy-wong-weddings-AlF80wr34Cw-unsplash.jpg");
+  background-image: url("/../assets/img/portfolio/sample-4/jeremy-wong-weddings-AlF80wr34Cw-unsplash.jpg");
   object-position: cover;
   background-repeat: no-repeat;
   background-size: cover;
@@ -466,7 +466,7 @@ body.hide {
 
 .sample-5-img {
   height: 90vh;
-  background-image: url("assets/img/portfolio/sample-5/thomas-william-6Sls-TB27kM-unsplash.jpg");
+  background-image: url("/../assets/img/portfolio/sample-5/thomas-william-6Sls-TB27kM-unsplash.jpg");
   object-position: cover;
   background-repeat: no-repeat;
   background-size: cover;
