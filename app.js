@@ -27,11 +27,6 @@ function animateSlides() {
       reverse: false,
     })
       .setTween(slideTl)
-      // .addIndicators({
-      //   colorStart: "white",
-      //   colorTrigger: "white",
-      //   name: "slide"
-      // })
       .addTo(controller);
 
     const pageTl = gsap.timeline();
@@ -45,12 +40,6 @@ function animateSlides() {
       duration: "100%",
       triggerHook: 0,
     })
-      // .addIndicators({
-      //   colorStart: "white",
-      //   colorTrigger: "white",
-      //   name: "page",
-      //   indent: 200
-      // })
       .setPin(slide, { pushFollowers: false })
       .setTween(pageTl)
       .addTo(controller);
@@ -122,11 +111,6 @@ function animateServices() {
       reverse: false,
     })
       .setTween(servicesTl)
-    //  .addIndicators({
-    //    colorStart: "black",
-    //    colorTrigger: "black",
-    //    name: "slide",
-      })
       .addTo(controller3);
   });
 }
@@ -150,11 +134,6 @@ slideScene2 = new ScrollMagic.Scene({
   reverse: false,
 })
   .setTween(aboutTl)
-  //.addIndicators({
-  //  colorStart: "black",
-  //  colorTrigger: "black",
-  //  name: "slide",
-  })
   .addTo(controller2);
 //EventListeners
 
