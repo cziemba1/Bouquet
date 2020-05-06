@@ -122,10 +122,10 @@ function animateServices() {
       reverse: false,
     })
       .setTween(servicesTl)
-      .addIndicators({
-        colorStart: "black",
-        colorTrigger: "black",
-        name: "slide",
+    //  .addIndicators({
+    //    colorStart: "black",
+    //    colorTrigger: "black",
+    //    name: "slide",
       })
       .addTo(controller3);
   });
@@ -150,10 +150,10 @@ slideScene2 = new ScrollMagic.Scene({
   reverse: false,
 })
   .setTween(aboutTl)
-  .addIndicators({
-    colorStart: "black",
-    colorTrigger: "black",
-    name: "slide",
+  //.addIndicators({
+  //  colorStart: "black",
+  //  colorTrigger: "black",
+  //  name: "slide",
   })
   .addTo(controller2);
 //EventListeners
